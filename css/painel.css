@@ -1,0 +1,72 @@
+body{
+    
+    padding-top: 70px;
+}
+
+.text-center{
+        padding-top: 5px;
+    
+}
+
+footer{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    width: auto;
+    
+}
+.footer-descricao{
+    
+    color: #fff;
+}
+.col-xs-11{
+    
+    margin-left: 19px;
+    padding-top: 20px;
+}
+
+#form-login{
+    
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #eee;
+}
+
+#form-login input{
+    
+    margin-bottom: 12px;
+}
+
+#medico{
+    
+    margin-left: 118px;
+    background: #6495ED;
+    height: 150px;
+    border-radius: 10px
+    
+}
+h5{
+    
+    color: #fff;
+}
+
+#clinica{
+    margin-left: 20px;
+     background: #5cb85c;
+    height:150px;
+    border-radius: 10px
+    
+    
+}
+#paciente{
+    
+   margin-left: 20px;
+     background: #f0ad4e;
+    height:150px;
+    border-radius: 10px  
+    
+}
